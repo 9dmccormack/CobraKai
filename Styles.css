@@ -11,6 +11,7 @@ body{
 .note{
   color: red;
   flex: 1;
+  text-align: center;
 }
 #info{
   font-size: 50px;
