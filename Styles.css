@@ -12,6 +12,14 @@ body{
   color: red;
   flex: 1;
   text-align: center;
+  font-size: 7em;
+  font-weight: bold;
+
+}
+.place{
+  color: yellow;
+  text-align:center;
+  flex:1;
 }
 #info{
   font-size: 50px;
@@ -23,12 +31,27 @@ body{
   text-align: center;
 
 }
+#dojo{
+  height:300px;
+  width:500px;
+}
+#shamrock{
+  display: flex;
+
+}
+#sham{
+  flex: 1;
+}
+#rock{
+  flex: 1;
+}
 nav{
     height: 60px;
     display: flex;
 
 }
 nav > a{
+    font-family: 'Kavivanar', cursive;
     flex: 1;
     text-align: center;
     text-decoration: none;
