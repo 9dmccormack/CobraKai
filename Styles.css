@@ -99,3 +99,28 @@ nav > a{
   margin:0 5px;
   flex: 1;
 }
+.daddies{
+  display: flex;
+}
+.john{
+  color: red;
+  flex: 1;
+  text-align: center;
+  background-color: yellow
+
+}
+#bnames{
+  color: red;
+  flex: 1;
+  text-align: center;
+  background-color: yellow
+  font-family: 'Anton', sans-serif;
+
+}
+#tnames{
+  color: red;
+  flex: 1;
+  text-align: center;
+  background-color: yellow
+  font-family: 'Anton', sans-serif;
+}
